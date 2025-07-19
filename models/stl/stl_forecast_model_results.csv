@@ -1,0 +1,5 @@
+Station,Best STL+ARIMA Model,Period,ARIMA Order,RMSE,MAE,R²
+glencourse_station_3,Failed,7,"(1, 1, 1)",,,
+hanwella_station_2,Failed,7,"(1, 1, 1)",,,
+kithulgala_station_4,Failed,7,"(1, 1, 1)",,,
+nagalagam_street_station_1,Failed,7,"(1, 1, 1)",,,

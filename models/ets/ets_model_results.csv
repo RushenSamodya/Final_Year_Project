@@ -1,0 +1,5 @@
+Station,Best ETS Model,RMSE,MAE,R²
+glencourse_station_3,Simple Exponential Smoothing,1.689935681886213,1.4086568650049482,-0.36171424159652776
+hanwella_station_2,Simple Exponential Smoothing,2.7284764221997166,2.4393151983391226,-2.0253800334661665
+kithulgala_station_4,Simple Exponential Smoothing,0.29858947552969906,0.2549744573100474,-1.9610597364171714
+nagalagam_street_station_1,Simple Exponential Smoothing,1.7539226137189725,1.690856884997338,-5.993081855936765
